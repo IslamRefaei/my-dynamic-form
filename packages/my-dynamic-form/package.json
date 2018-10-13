@@ -1,0 +1,21 @@
+{
+  "name": "my-dynamic-form",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/my-dynamic-form.umd.js",
+  "module": "fesm5/my-dynamic-form.js",
+  "es2015": "fesm2015/my-dynamic-form.js",
+  "esm5": "esm5/my-dynamic-form.js",
+  "esm2015": "esm2015/my-dynamic-form.js",
+  "fesm5": "fesm5/my-dynamic-form.js",
+  "fesm2015": "fesm2015/my-dynamic-form.js",
+  "typings": "my-dynamic-form.d.ts",
+  "metadata": "my-dynamic-form.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
